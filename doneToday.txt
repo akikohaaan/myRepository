@@ -1,1 +1,1 @@
-ProgateでHTML/css/JQueryの学習を実施
+Progateでcss, JavaScriptコース全学習を実施
